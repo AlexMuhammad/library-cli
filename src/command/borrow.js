@@ -30,6 +30,28 @@ function borrow(bookId, userId) {
   const user = users.find((user) => user.id.toString() === userId);
 
   // Your Implementation
+  // copilot bang :(
+  if (!book) {
+    throw new Error("Book not found");
+  }
+
+  if (!user) {
+    throw new Error("User not found");
+  }
+
+  if (book.isPreserved) {
+    throw new Error("Book is preserved");
+  }
+
+  if (user.isMember === false && book.isMemberOnly) {
+    throw new Error("User is not a member");
+  }
+
+  if (book.borrowedBy !== null) {
+    throw new Error("Book is already borrowed");
+  }
+
+  return { user, book };
 }
 
 module.exports = borrow;
