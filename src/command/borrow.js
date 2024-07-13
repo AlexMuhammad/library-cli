@@ -1,5 +1,6 @@
 const books = require("../../data/books.json");
 const users = require("../../data/users.json");
+const ApplicationError = require("../errors/ApplicationError");
 
 /**
  * @typedef {Object} Book
@@ -31,24 +32,25 @@ function borrow(bookId, userId) {
 
   // Your Implementation
   // copilot bang :(
+
   if (!book) {
-    throw new Error("Book not found");
+    throw new ApplicationError("Book not found", 404);
   }
 
   if (!user) {
-    throw new Error("User not found");
+    throw new ApplicationError("User not found", 404);
   }
 
   if (book.isPreserved) {
-    throw new Error("Book is preserved");
+    throw new ApplicationError("Book is preserved", 400);
   }
 
-  if (user.isMember === false && book.isMemberOnly) {
-    throw new Error("User is not a member");
+  if (book.isMemberOnly && !user.isMember) {
+    throw new ApplicationError("User is not a member", 400);
   }
 
-  if (book.borrowedBy !== null) {
-    throw new Error("Book is already borrowed");
+  if (book.borrowedBy) {
+    throw new ApplicationError("Book is already borrowed", 400);
   }
 
   return { user, book };
