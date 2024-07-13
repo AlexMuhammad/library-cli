@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "title": "clamo corrigo tego",
+    "description": "Vorago cunctatio clam tubineus utilis.",
+    "isPreserved": true,
+    "isMemberOnly": true,
+    "borrowedBy": null,
+    "publishedYear": 2005
+  },
+  {
+    "id": 2,
+    "title": "tamen uxor talus",
+    "description": "Synagoga volutabrum depraedor ventus aegre vilicus.",
+    "isPreserved": false,
+    "isMemberOnly": true,
+    "borrowedBy": 1,
+    "publishedYear": 2005
+  },
+  {
+    "id": 3,
+    "title": "vetus solutio",
+    "description": "Benigne adnuo cena desipio.",
+    "isPreserved": true,
+    "isMemberOnly": true,
+    "borrowedBy": null,
+    "publishedYear": 1998
+  },
+  {
+    "id": 4,
+    "title": "hic caput via",
+    "description": "Pecco tibi curtus trucido sodalitas umbra coaegresco ter tendo.",
+    "isPreserved": true,
+    "isMemberOnly": true,
+    "borrowedBy": null,
+    "publishedYear": 1987
+  },
+  {
+    "id": 5,
+    "title": "audacia repudiandae officia",
+    "description": "Agnitio cubitum utrimque speciosus caute.",
+    "isPreserved": false,
+    "isMemberOnly": false,
+    "borrowedBy": null,
+    "publishedYear": 1997
+  },
+  {
+    "id": 6,
+    "title": "atrox excepturi",
+    "description": "Aequus timor sed quos degenero quia.",
+    "isPreserved": false,
+    "isMemberOnly": false,
+    "borrowedBy": null,
+    "publishedYear": 1970
+  },
+  {
+    "id": 7,
+    "title": "creta defluo id",
+    "description": "Centum video curiositas constans provident tunc alioqui cupio.",
+    "isPreserved": true,
+    "isMemberOnly": false,
+    "borrowedBy": null,
+    "publishedYear": 1988
+  },
+  {
+    "id": 8,
+    "title": "desidero antepono comes",
+    "description": "Subito sono absens aeger abutor thesis voluptates suspendo.",
+    "isPreserved": false,
+    "isMemberOnly": true,
+    "borrowedBy": null,
+    "publishedYear": 2006
+  },
+  {
+    "id": 9,
+    "title": "vita undique terminatio",
+    "description": "Tempore demulceo supellex temperantia alienus molestias sed.",
+    "isPreserved": false,
+    "isMemberOnly": false,
+    "borrowedBy": 8,
+    "publishedYear": 1999
+  },
+  {
+    "id": 10,
+    "title": "cado vero ascit",
+    "description": "Viscus accusantium bis tollo aptus amoveo nostrum.",
+    "isPreserved": true,
+    "isMemberOnly": false,
+    "borrowedBy": null,
+    "publishedYear": 1978
+  },
+  {
+    "id": 11,
+    "title": "comes exercitationem",
+    "description": "Urbanus admitto vicinus appello alveus sonitus sustineo.",
+    "isPreserved": false,
+    "isMemberOnly": true,
+    "borrowedBy": null,
+    "publishedYear": 1985
+  },
+  {
+    "id": 12,
+    "title": "vicinus patria",
+    "description": "Atqui admoveo acsi vulpes.",
+    "isPreserved": false,
+    "isMemberOnly": true,
+    "borrowedBy": null,
+    "publishedYear": 2007
+  },
+  {
+    "id": 13,
+    "title": "carcer animi",
+    "description": "Textor vulariter tabella tonsor inflammatio curso molestiae.",
+    "isPreserved": true,
+    "isMemberOnly": false,
+    "borrowedBy": null,
+    "publishedYear": 1976
+  },
+  {
+    "id": 14,
+    "title": "asporto decimus vero",
+    "description": "Ante centum aliqua casso.",
+    "isPreserved": false,
+    "isMemberOnly": false,
+    "borrowedBy": null,
+    "publishedYear": 1993
+  },
+  {
+    "id": 15,
+    "title": "condico terreo cibus",
+    "description": "Quam blandior vestigium.",
+    "isPreserved": false,
+    "isMemberOnly": false,
+    "borrowedBy": null,
+    "publishedYear": 1978
+  },
+  {
+    "id": 16,
+    "title": "bene adhaero veniam",
+    "description": "Caelestis utrum vilitas articulus.",
+    "isPreserved": true,
+    "isMemberOnly": false,
+    "borrowedBy": null,
+    "publishedYear": 1984
+  },
+  {
+    "id": 17,
+    "title": "animadverto deripio",
+    "description": "Voveo beatus surgo tam absens unus theca sursum tenus dapifer.",
+    "isPreserved": false,
+    "isMemberOnly": false,
+    "borrowedBy": null,
+    "publishedYear": 1973
+  },
+  {
+    "id": 18,
+    "title": "deficio terga credo",
+    "description": "Patruus appositus sunt tamquam arca caecus atavus.",
+    "isPreserved": true,
+    "isMemberOnly": true,
+    "borrowedBy": null,
+    "publishedYear": 1979
+  },
+  {
+    "id": 19,
+    "title": "addo turbo",
+    "description": "Aliquam cubitum hic.",
+    "isPreserved": true,
+    "isMemberOnly": true,
+    "borrowedBy": null,
+    "publishedYear": 1972
+  },
+  {
+    "id": 20,
+    "title": "tempore harum",
+    "description": "Calcar ullam cras.",
+    "isPreserved": false,
+    "isMemberOnly": true,
+    "borrowedBy": null,
+    "publishedYear": 1997
+  },
+  {
+    "id": 21,
+    "title": "adipisci agnosco",
+    "description": "Ter vitae cito amplexus.",
+    "isPreserved": true,
+    "isMemberOnly": true,
+    "borrowedBy": null,
+    "publishedYear": 1977
+  },
+  {
+    "id": 22,
+    "title": "antea spiritus ducimus",
+    "description": "Defessus arma crastinus molestias.",
+    "isPreserved": true,
+    "isMemberOnly": true,
+    "borrowedBy": null,
+    "publishedYear": 1984
+  },
+  {
+    "id": 23,
+    "title": "bis aegre",
+    "description": "Xiphias tenetur fugit cicuta.",
+    "isPreserved": true,
+    "isMemberOnly": false,
+    "borrowedBy": null,
+    "publishedYear": 1982
+  },
+  {
+    "id": 24,
+    "title": "vir adsidue aliquid",
+    "description": "Succurro tepesco reprehenderit cena temptatio adeptio.",
+    "isPreserved": true,
+    "isMemberOnly": false,
+    "borrowedBy": null,
+    "publishedYear": 1978
+  },
+  {
+    "id": 25,
+    "title": "tabula balbus",
+    "description": "Utique verto ea cura tollo coniecto arbitro viriliter modi.",
+    "isPreserved": false,
+    "isMemberOnly": true,
+    "borrowedBy": null,
+    "publishedYear": 1992
+  },
+  {
+    "id": 26,
+    "title": "validus arceo",
+    "description": "Depereo terebro crapula thymbra auctus animus alo id.",
+    "isPreserved": true,
+    "isMemberOnly": true,
+    "borrowedBy": null,
+    "publishedYear": 1991
+  },
+  {
+    "id": 27,
+    "title": "rem deripio",
+    "description": "Cunctatio saepe studio arbitro torrens anser subito.",
+    "isPreserved": true,
+    "isMemberOnly": false,
+    "borrowedBy": null,
+    "publishedYear": 1978
+  },
+  {
+    "id": 28,
+    "title": "autem beatus",
+    "description": "Cenaculum ex doloribus coadunatio allatus conservo.",
+    "isPreserved": true,
+    "isMemberOnly": true,
+    "borrowedBy": null,
+    "publishedYear": 1980
+  },
+  {
+    "id": 29,
+    "title": "cursim arbustum cresco",
+    "description": "Debeo curiositas alter vilis adipisci terga totidem.",
+    "isPreserved": false,
+    "isMemberOnly": true,
+    "borrowedBy": 8,
+    "publishedYear": 1983
+  },
+  {
+    "id": 30,
+    "title": "aliquid synagoga",
+    "description": "Templum vereor turbo copiose.",
+    "isPreserved": true,
+    "isMemberOnly": true,
+    "borrowedBy": null,
+    "publishedYear": 1983
+  },
+  {
+    "id": 31,
+    "title": "asper advoco vinum",
+    "description": "Conscendo umerus cupressus officiis quidem voluptatum vae cura vitae.",
+    "isPreserved": true,
+    "isMemberOnly": false,
+    "borrowedBy": null,
+    "publishedYear": 2001
+  },
+  {
+    "id": 32,
+    "title": "sublime victoria mollitia",
+    "description": "Titulus aegrotatio esse crudelis conspergo cetera tener.",
+    "isPreserved": false,
+    "isMemberOnly": false,
+    "borrowedBy": null,
+    "publishedYear": 1981
+  },
+  {
+    "id": 33,
+    "title": "timor degusto",
+    "description": "Crebro ater curto amor ara.",
+    "isPreserved": false,
+    "isMemberOnly": true,
+    "borrowedBy": null,
+    "publishedYear": 1977
+  },
+  {
+    "id": 34,
+    "title": "atqui succurro",
+    "description": "Saepe celer saepe admitto deputo earum somnus certe.",
+    "isPreserved": true,
+    "isMemberOnly": false,
+    "borrowedBy": null,
+    "publishedYear": 2000
+  },
+  {
+    "id": 35,
+    "title": "consuasor uredo desolo",
+    "description": "Substantia vestigium cogo curso usitas talio.",
+    "isPreserved": false,
+    "isMemberOnly": true,
+    "borrowedBy": 9,
+    "publishedYear": 1981
+  },
+  {
+    "id": 36,
+    "title": "despecto tyrannus",
+    "description": "Derideo thymbra curtus adopto tenax.",
+    "isPreserved": true,
+    "isMemberOnly": false,
+    "borrowedBy": null,
+    "publishedYear": 1989
+  },
+  {
+    "id": 37,
+    "title": "tersus avaritia cogito",
+    "description": "Conduco angelus celebrer cado curo.",
+    "isPreserved": false,
+    "isMemberOnly": false,
+    "borrowedBy": null,
+    "publishedYear": 1978
+  },
+  {
+    "id": 38,
+    "title": "assentator ceno",
+    "description": "Accendo tametsi temperantia suscipit suasoria.",
+    "isPreserved": true,
+    "isMemberOnly": false,
+    "borrowedBy": null,
+    "publishedYear": 1990
+  },
+  {
+    "id": 39,
+    "title": "dedecor una",
+    "description": "Aggredior tracto odit varietas vicissitudo toties avarus.",
+    "isPreserved": true,
+    "isMemberOnly": true,
+    "borrowedBy": null,
+    "publishedYear": 1983
+  },
+  {
+    "id": 40,
+    "title": "tui denuo",
+    "description": "Convoco cerno non centum claudeo.",
+    "isPreserved": false,
+    "isMemberOnly": false,
+    "borrowedBy": null,
+    "publishedYear": 1974
+  },
+  {
+    "id": 41,
+    "title": "cibo bestia",
+    "description": "Facere odit coniuratio creptio denego attollo cupio congregatio.",
+    "isPreserved": true,
+    "isMemberOnly": true,
+    "borrowedBy": null,
+    "publishedYear": 1984
+  },
+  {
+    "id": 42,
+    "title": "uter uxor",
+    "description": "Sodalitas velit tredecim reiciendis neque articulus optio compono.",
+    "isPreserved": true,
+    "isMemberOnly": true,
+    "borrowedBy": null,
+    "publishedYear": 2005
+  },
+  {
+    "id": 43,
+    "title": "ultio arca",
+    "description": "Verto enim appositus.",
+    "isPreserved": false,
+    "isMemberOnly": false,
+    "borrowedBy": 10,
+    "publishedYear": 1983
+  },
+  {
+    "id": 44,
+    "title": "volva cubitum canonicus",
+    "description": "Bellum tremo charisma cotidie assentator accusantium pecco campana.",
+    "isPreserved": false,
+    "isMemberOnly": true,
+    "borrowedBy": null,
+    "publishedYear": 1978
+  },
+  {
+    "id": 45,
+    "title": "magni viduo",
+    "description": "Iusto tenuis deserunt amiculum aestivus delicate vespillo ab.",
+    "isPreserved": true,
+    "isMemberOnly": true,
+    "borrowedBy": null,
+    "publishedYear": 1978
+  },
+  {
+    "id": 46,
+    "title": "accedo tutis",
+    "description": "Causa deripio conventus cado undique charisma tyrannus corporis.",
+    "isPreserved": true,
+    "isMemberOnly": false,
+    "borrowedBy": null,
+    "publishedYear": 1995
+  },
+  {
+    "id": 47,
+    "title": "argumentum acquiro aeternus",
+    "description": "Repellat et ciminatio.",
+    "isPreserved": false,
+    "isMemberOnly": false,
+    "borrowedBy": null,
+    "publishedYear": 1987
+  },
+  {
+    "id": 48,
+    "title": "cruciamentum depromo tricesimus",
+    "description": "Vicinus confido depereo crinis verus crux.",
+    "isPreserved": true,
+    "isMemberOnly": false,
+    "borrowedBy": null,
+    "publishedYear": 2003
+  },
+  {
+    "id": 49,
+    "title": "adaugeo denego",
+    "description": "Uberrime compono commodi solium.",
+    "isPreserved": true,
+    "isMemberOnly": true,
+    "borrowedBy": null,
+    "publishedYear": 2006
+  },
+  {
+    "id": 50,
+    "title": "appositus curis",
+    "description": "Alius arbitro virgo tergeo voluptatem cometes stips solium.",
+    "isPreserved": true,
+    "isMemberOnly": true,
+    "borrowedBy": null,
+    "publishedYear": 1999
+  }
+]

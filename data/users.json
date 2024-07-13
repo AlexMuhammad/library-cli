@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "Dana Grimes-Pagac", "isMember": true },
+  { "id": 2, "name": "Cornelius Metz-Stokes", "isMember": true },
+  { "id": 3, "name": "Josephine Nitzsche", "isMember": false },
+  { "id": 4, "name": "Marsha Nienow", "isMember": true },
+  { "id": 5, "name": "Michelle Braun", "isMember": true },
+  { "id": 6, "name": "Dr. Joanne Howell", "isMember": false },
+  { "id": 7, "name": "Roberto Vandervort", "isMember": false },
+  { "id": 8, "name": "Nichole Ebert", "isMember": true },
+  { "id": 9, "name": "Rhonda Bode", "isMember": true },
+  { "id": 10, "name": "Owen Kuhn", "isMember": false }
+]

@@ -1,0 +1,21 @@
+#!/usr/bin/env node
+
+const borrow = require("../src/command/borrow");
+const ApplicationError = require("../src/errors/ApplicationError");
+
+const bookId = process.argv[2];
+const userId = process.argv[3];
+
+try {
+  const { user, book } = borrow(bookId, userId);
+
+  console.log(book.title, "is borrowed by", user.name);
+} catch(err) {
+  if (err instanceof ApplicationError) {
+    console.error("Process exited with code", err.exitCode, "error message:", err.message);
+    process.exit(err.exitCode || 1);
+  }
+
+  console.error("Process exited with code", 1, "error message:", err.message);
+  process.exit(1);
+};
