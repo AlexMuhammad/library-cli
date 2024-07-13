@@ -29,7 +29,33 @@ function borrow(bookId, userId) {
   const book = books.find((book) => book.id.toString() === bookId);
   const user = users.find((user) => user.id.toString() === userId);
 
-  // Your Implementation
+  if (!book) {
+    throw new ApplicationError(`Book with id ${bookId} not found`, 1);
+  }
+
+  if (!user) {
+    throw new ApplicationError(`User with id ${userId} not found`, 2);
+  }
+
+  if (book.borrowedBy !== null) {
+    const borrower = users.find((u) => u.id === book.borrowedBy);
+    throw new ApplicationError(`Book is already borrowed by ${borrower.name}`, 3);
+  }
+
+  if (book.isPreserved) {
+    throw new ApplicationError("Book is preserved and cannot be borrowed", 4);
+  }
+
+  if (book.isMemberOnly && !user.isMember) {
+    throw new ApplicationError("Book is for members only", 5);
+  }
+
+  if (book.publishedYear < 1980) {
+    throw new ApplicationError("Book is older than 1980 and cannot be borrowed", 6);
+  }
+
+  book.borrowedBy = user.id;
+  return { user, book };
 }
 
 module.exports = borrow;
